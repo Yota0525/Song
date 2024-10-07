@@ -9,6 +9,7 @@ definePageMeta({
   <Container margin="t-5">
     <HeroHeadingsDescription />
   </Container>
+  歌は世界を救う
   <HeroLandingVb />
   <Container margin="y-5">
     <ColumnsOurService />
